@@ -265,7 +265,7 @@ void uninstallCrashRptHandler()
 
 BitSharesApp* BitSharesApp::_instance = nullptr;
 
-#define APP_NAME "BitSharesXT"
+#define APP_NAME "BitSharesDNS"
 
 static std::string CreateBitSharesVersionNumberString()
 {
