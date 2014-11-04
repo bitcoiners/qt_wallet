@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=BitSharesDNS
+Comment=A decentralized bank and exchange
+Exec=BitSharesDNS %u
+Icon=/usr/local/share/icons/BitSharesDNS.png
+Type=Application
+Encoding=UTF-8
+Categories=Network;Finance;P2P;Qt;
+MimeType=x-scheme-handler/bts;
